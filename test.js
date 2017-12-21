@@ -5,5 +5,5 @@ Test.prototype.step1 = function() {
 };
 
 Test.prototype.step2 = function() {
-	return "step3";
+	return "step2";
 };
