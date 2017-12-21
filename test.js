@@ -10,4 +10,8 @@ Test.prototype.step2 = function() {
 	return "step2";
 };
 
+Test.prototype.step3 = functoin() {
+	return "step3";
+};
+
 module.exports = Test;
