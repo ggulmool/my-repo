@@ -1,3 +1,5 @@
+'use strict';
+
 function Test() {}
 
 Test.prototype.step1 = function() {
@@ -7,3 +9,5 @@ Test.prototype.step1 = function() {
 Test.prototype.step2 = function() {
 	return "step2";
 };
+
+module.exports = Test;
